@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin : 2% 25%;
+}
+
+.card{
+    width: 500px;
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 45%;
+    margin-bottom: 18%;
+}
+
+.hero-body {
+    margin: 100px;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.skills-content {
+    margin: 1px;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-bottom: 18%;
+}
+
+.media {
+    height: 1px;
+    width: 380px;
+}

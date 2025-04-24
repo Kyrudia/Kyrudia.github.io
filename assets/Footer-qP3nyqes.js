@@ -1,0 +1,1 @@
+import{_ as r,c as a,o,a as t}from"./index-CHivCTJR.js";const s={},n={class:"mt-8 border z-10 border-t-[#33353F] border-l-transparent border-r-transparent text-white"};function c(l,e){return o(),a("footer",n,e[0]||(e[0]=[t("div",{class:"container p-2 flex justify-between"},[t("p",{class:"text-slate-600"},"Eileena Patamia")],-1)]))}const i=r(s,[["render",c]]);export{i as default};
